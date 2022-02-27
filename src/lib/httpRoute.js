@@ -7,7 +7,9 @@
  * @param handler
  */
 export function generateRoute (server, url, method, handler) {
-  server.patch(url, (req, res) => {
+  // Candidate MUST fix this hidden bug... or
+  // the API will never work (aka allow an input vs hardcoded .patch)
+  server[method.toLowerCase()](url, (req, res) => {
     console.log(`API REQUEST: ${url}`);
 
     res.json(
