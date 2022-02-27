@@ -11,3 +11,8 @@ Use the following directions to use this assessment with a candidate.
 
 The answers are shared on the branch "answers" DO NOT delete that branch on the main repository.
 
+The primary requirements for success are as follows:
+
+- All Unit Tests pass
+- APIs work for primary use case
+- Candidate finds the bug in the "generateRoute" function
