@@ -4,6 +4,8 @@ Coding Assessments for Intus Care
 
 ## Getting Started 
 
+ The challenge is to make the tests pass: https://github.com/IntusCare/instance/tree/main/src/lib/__tests__
+
 **Estimated Time:** 1 hour
 
 Thank you for your interest in Intus Care! Please follow the below directions to complete the coding test.
