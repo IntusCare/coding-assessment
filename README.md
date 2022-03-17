@@ -4,7 +4,9 @@ Coding Assessments for Intus Care
 
 ## Getting Started 
 
- The challenge is to make the tests pass: https://github.com/IntusCare/instance/tree/main/src/lib/__tests__
+ Please make sure the tests pass (/tree/main/src/lib/__tests__)
+
+ Feel free to change any of the code provided as you see fit or necessary.
 
 **Estimated Time:** 1 hour
 
