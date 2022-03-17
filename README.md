@@ -4,9 +4,6 @@ Coding Assessments for Intus Care
 
 ## Getting Started 
 
- Please make sure the tests pass (/tree/main/src/lib/__tests__)
-
- Feel free to change any of the code provided as you see fit or necessary.
 
 **Estimated Time:** 1 hour
 
