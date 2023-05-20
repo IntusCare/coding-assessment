@@ -17,7 +17,8 @@ export function run (config) {
 
   // Routes
   // ------
-  generateRoute(app, '/math', 'POST', math);
+  generateRoute(app, '/math', 'POST', math);  //Perhaps a GET method would be more appropriate than POST in this case since it will always return the same answer for the same input
+  //generateRoute(app, '/math', 'GET', math); //Like this
 
   app.listen(config.port, () => {
     console.log(`Assessment app listening on port ${config.port}`);
